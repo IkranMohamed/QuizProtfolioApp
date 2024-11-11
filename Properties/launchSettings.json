@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "QuizProtfolioApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
